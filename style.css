@@ -1,0 +1,63 @@
+body
+{
+	background-color:rgb(200,200,200);
+}
+#cv
+{
+	border:2px solid black;
+}
+#container
+{
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+}
+.control
+{
+	font-size:120%;
+	border:2px solid black;
+	width:10em;
+	max-width:15em;
+	margin-top:2px;
+	margin-bottom:2px;
+}
+#reseed
+{
+	background-color:rgb(240,55,55);
+}
+#reseed:hover
+{
+	background-color:rgb(200,55,55);
+}
+#pn
+{
+	background-color:rgb(55,240,55);
+}
+#gc
+{
+	background-color:rgb(55,55,240);
+}
+#mlb
+{
+	background-color:rgb(200,55,200);
+}
+#mub
+{
+	background-color:rgb(55,200,200);
+}
+#toggle
+{
+	background-color:rgb(200,200,55);
+}
+#togBoxes
+{
+
+}
+#sizes
+{
+	background-color:rgb(150,150,150);
+}
+#sizes:hover
+{
+	background-color:rgb(220,220,220);
+}
